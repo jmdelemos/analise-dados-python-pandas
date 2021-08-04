@@ -18,19 +18,33 @@ As análises foram realizadas com o **jupyter notebook**
 
 ## Arquivo DadosPopPAises.ipynb
 
-a
+Importação dos pacotes e da base de dados.
+
+Colunas da base de dados renomeadas. Foram realizados agrupamentos de dados para análise. Forma gerados gráficos de algumas análises.
+
+Análises feitas com dados de expectativa de vida e PIB.
 
 ## Arquivo LojasCidades.ipynb
 
-a
+Importação dos pacotes e da base de dados.
+
+Interações básicas com o dataframe: concatenação dos arquivos .xlsx, verificação do tamanho e dos tipos de dados nas colunas;
+
+Tratando dados faltantes (*missing values*). Obtenção de novas colunas a partir das colunas existentes no dataframe.
+
+Comparação de vendas e receitas por períop e geração de gráficos.
 
 ## Arquivo DadosVendasMarcas.ipynb
 
-a
+Importação dos pacotes e da base de dados.
 
-]
+Interações básicas com o dataframe: , verificação do tamanho e dos tipos de dados nas colunas;
 
+Obtenção das colunas custo e lucro com base nas colunas de vendas, custo unitário e quantidades; Cálculo do lucro total e do custo total;
 
+Calculo do tempo de envio dos produtos. Verificando missing values. 
+
+Análise graficas: quantidades totais de vendas, lucro por ano, vendas por ano etc.
 
 # Inclusão de novas bases de dados para novos estudos/análises
 
