@@ -48,6 +48,16 @@ Análise graficas: quantidades totais de vendas, lucro por ano, vendas por ano e
 
 # Inclusão de novas bases de dados para novos estudos/análises
 
+## Dataset: 120 years of Olympic history: athletes and results
+
+Conjunto de dados com dados olimpicos desde Athenas 1896 até as olimpiadas Rio 2016;
+
+**Fonte:** https://www.kaggle.com/heesoo37/120-years-of-olympic-history-athletes-and-results;
+
+
+
+
+
 
 
 
